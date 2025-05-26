@@ -5,3 +5,4 @@
 - went through the concepts of break n continue, and control flow statements
 - Understood strings, numbers, lists
 - Understood the functions and looping strategies
+- Completed the command line calculator challenge
