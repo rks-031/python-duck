@@ -1,0 +1,11 @@
+- working with important maginc method: __init __() --> which is the contructor
+- __repr__ method
+- class vs static methods
+- inheritance
+- adding validation checks using **assert** statements
+- getters and setters
+- modularization
+- oops principles
+- design a stack with increment operation: leetcode problem
+- design parking system: leetcode problem
+- Implementation Challenge: Design a simple agent class structure with basic functionality
