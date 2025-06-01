@@ -1,0 +1,4 @@
+- Inheritance vs Composition [Is-A and Has-A relationship]
+- Composition is more better han inheritance as it promotes loose coupling and provides more flexibility.
+- Composition inculcates the Liskov's Subsitituion Principle
+- 
