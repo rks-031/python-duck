@@ -1,0 +1,6 @@
+- Solved leetcode problems: `AtoI` and `Valid Parentheses`.
+- Had a deep undrestanding of Errors and Exception in python and their management.
+- Learnt about the Exception class and various built-in exceptions.
+- Learnt about creating custom exceptions.
+- Studied about common error pattern in agent systems.
+- Added error handling to the user input and dictionary operations in the agent interactions.
