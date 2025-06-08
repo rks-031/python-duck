@@ -1,0 +1,3 @@
+- Got an understanding of how packages and modules are managed in python and the best practices associated.
+- Solved hackerrank problems on `DefaultDict` and `OrderedDict ` methods.
+- 
